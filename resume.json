@@ -1,0 +1,380 @@
+{
+  "basics": {
+    "name": "Marcin Grochulski",
+    "label": "Team Leader & Senior Frontend Developer",
+    "picture": "",
+    "email": "marcin@grochulski.net",
+    "phone": "(+48) 796 868 875",
+    "website": "http://grochulski.net",
+    "summary": "",
+    "location": {
+      "address": "Armii Krajowej 2",
+      "postalCode": "26-300",
+      "city": "Opoczno",
+      "countryCode": "PL",
+      "region": "Łódzkie"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "_sptq",
+        "url": "https://twitter.com/_sptq"
+      },
+      {
+        "network": "Github",
+        "username": "sptq",
+        "url": "https://github.com/sptq"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sabre",
+      "position": "Senior Frontend Developer",
+      "website": "http://sabre.com",
+      "startDate": "2016-06-01",
+      "summary": "CRM for Flight Crew Members. Technologies: Node.js, Angular 1.5, Spark EDL, Webpack, ",
+      "highlights": [
+        "Analyzing old application and converting to new SPA apps",
+        "Development of hybrid applications",
+        "Applications centralization system development",
+        "Web pages optimalization"
+      ]
+    },
+    {
+      "company": "Sabre",
+      "position": "Senior Frontend Developer",
+      "website": "http://sabre.com",
+      "startDate": "2015-08-01",
+      "endDate": "2016-06-01",
+      "summary": "Hybrid application for selling tickets, hotels and more. Technologies: Sabre Dynamo Framework, Backbone, Jasmine,  Responsive Web Design",
+      "highlights": [
+        "Development of hybrid applications",
+        "Applications centralization system development",
+        "Web pages optimalization",
+        "Creating a new solutions for a project ",
+        "Build reusable code and libraries for future use",
+        "Optimize application for maximum speed and scalability",
+        "Collaborate with other team members and stakeholders"
+      ]
+    },
+    {
+      "company": "Pepsico Inc.",
+      "position": "Senior Frontend Developer and Architect",
+      "website": "http://pepsico.com",
+      "startDate": "2015-12-01",
+      "endDate": "2016-03-01",
+      "summary": "Application for creating and managing BPM processes in huge companies. Technologies: Angular, ES6, Jasmine, Protractor, Responsive Web Design, Material Design",
+      "highlights": [
+        "Design frontend application",
+        "Create code for fronted application with Angular JS",
+        "Analyzing new features for project – UE & Usability",
+        "Integrate frontend application with .NET on backend"
+      ]
+    },
+    {
+      "company": "Dropcode",
+      "position": "Owner",
+      "website": "http://dropcode.com",
+      "startDate": "2015-08-01",
+      "summary": "Working on apps for conference member registration to event. Working on event aggregator - barcamp.io. Technologies: React JS, Rails, Responsive Web Design, Material Design",
+      "highlights": [
+        "Design frontend application",
+        "Create code for fronted application with React JS",
+        "Analyzing new features for project – UE & Usability",
+        "Integrate frontend application with Rails on backend",
+        "Support application after develop process"
+      ]
+    },
+    {
+      "company": "Tekro",
+      "position": "Senior Frontend Developer and Architect",
+      "website": "",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-01",
+      "summary": "Hybrid application for sharing knowledge in medical company. Technologies: Ionic framework, Responsive Web Design",
+      "highlights": [
+        "Design hybrid application - iPhone/iPad",
+        "Create application with Ionic Framework",
+        "Analyzing new features for project – UE & Usability",
+        "Integrate frontend application with Java backend"
+      ]
+    },
+    {
+      "company": "Roche",
+      "position": "Senior Frontend Developer",
+      "website": "http://roche.com",
+      "startDate": "2015-01-01",
+      "endDate": "2015-06-01",
+      "summary": "CRM system to manage the medical companies. Technologies: Angular JS, Responsive Web Design, Cordova, Salesforce, WebSQL",
+      "highlights": [
+        "Design frontend application",
+        "Create code for fronted application with Angular JS",
+        "Analyzing new features for project – UE & Usability",
+        "Integrate frontend application with salesforce on backend",
+        "Create advanced cache service for SPA application",
+        "Support application after develop process"
+      ]
+    },
+    {
+      "company": "Proama",
+      "position": "Senior Frontend Developer abd Architect",
+      "website": "http://proama.pl",
+      "startDate": "2014-10-01",
+      "endDate": "2015-01-01",
+      "summary": "CRM system to manage the insurance companies. Technologies: Angular JS, Responsive Web Design",
+      "highlights": [
+        "Design frontend application",
+        "Create code for fronted application with Angular JS",
+        "Analyzing new features for project – UE & Usability",
+        "Integrate frontend application with spring services on backend"
+      ]
+    },
+    {
+      "company": "Roche",
+      "position": "Frontend Developer",
+      "website": "http://roche.com",
+      "startDate": "2014-06-01",
+      "endDate": "2014-10-01",
+      "summary": "Cross-platform business application to manage the work of sales representatives. Technologies: Angular JS, Cordova, Ionic, Salesforce",
+      "highlights": [
+        "Design frontend application",
+        "Create code for fronted application with Angular JS",
+        "Analyzing new features for project – UE & Usability",
+        "Integrate frontend application with salesforce on backend",
+        "Create mobile apps for Android and iPhone",
+        "Support application after develop process"
+      ]
+    },
+    {
+      "company": "Softpro Ideas LTD & Bonhams",
+      "position": "Fullstack Developer",
+      "website": "http://www.bonhams.com/",
+      "startDate": "2014-04-01",
+      "endDate": "2014-06-01",
+      "summary": "Collaborative Planning – budget review application. Technologies: Spring, EJB II, AngularJS, SpreadJS",
+      "highlights": [
+        "Analyzing the old version of application",
+        "Design frontend application with AngularJS & SpreadJS",
+        "Creating frontend application",
+        "Create DTO Object for JSON to communicate with services",
+        "Putting few changes to backend application",
+        "Optimize frontend application"
+      ]
+    },
+    {
+      "company": "Softpro Ideas LTD",
+      "position": "Fullstack Developer",
+      "website": "http://www.softpro.pl/",
+      "startDate": "2014-02-01",
+      "endDate": "2014-04-01",
+      "summary": "Backup Manager for Oracle Databases. Technologies: Spring, PostgresSQL, Angular JS",
+      "highlights": [
+        "Create the frontend application",
+        "Integrate frontend application with spring services on backend",
+        "Create DTO Object for JSON to communicate with services",
+        "Putting some changes to services like create new filter or change query for database"
+      ]
+    },
+    {
+      "company": "Softpro Ideas LTD",
+      "position": "Fullstack Developer",
+      "website": "http://www.softpro.pl/",
+      "startDate": "2013-09-01",
+      "endDate": "2014-02-01",
+      "summary": "The social network for professionals and freelancers. Technologies: Spring, OrientDB, Play Framework, Backbone",
+      "highlights": [
+        "Design frontend application",
+        "Analyzing new features for project – UE & Usability",
+        "Integrate frontend application with spring services on backend",
+        "Create DTO Object for JSON to communicate with services"
+      ]
+    },
+    {
+      "company": "Perfect One",
+      "position": "Fullstack Developer",
+      "website": "http://www.perfectone.pl/",
+      "startDate": "2013-05-01",
+      "endDate": "2013-09-01",
+      "summary": "The application for the management of multi-level marketing. Technologies: Symfony 2, Backbone",
+      "highlights": [
+        "Developing applications",
+        "The creation of new functionalities",
+        "Creating frontend application with Backbone JS",
+        "Creating backend application with Symphony 2"
+      ]
+    },
+    {
+      "company": "Web Coders",
+      "position": "Fullstack Developer",
+      "website": "http://www.webcoders.eu/",
+      "startDate": "2012-01-01",
+      "endDate": "2012-05-01",
+      "summary": "Web shopping systems. Technologies: Backbone, jQuery, Zend Framework",
+      "highlights": [
+        "Developing applications",
+        "The creation of new functionalities",
+        "Creating frontend application with Backbone/jQuery",
+        "Creating backend with Zend Framework"
+      ]
+    },
+    {
+      "company": "Star Technology",
+      "position": "Fullstack Developer",
+      "website": "http://www.startechnology.pl/",
+      "startDate": "2011-05-01",
+      "endDate": "2011-12-01",
+      "summary": "Systems for debt collection, manage company resources, multi-level marketing. Technologies: Cake PHP, jQuery",
+      "highlights": [
+        "Developing applications",
+        "The creation of new functionalities",
+        "Creating frontend application with jQuery",
+        "Creating backend with Cake PHP Framework"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Hackerspace Lublin",
+      "position": "Founder & CEO",
+      "website": "http://hackerspace-lbn.pl/",
+      "startDate": "2013-10-01",
+      "summary": "Non-profit ogranization",
+      "highlights": []
+    },
+    {
+      "organization": "John Paul II University of Lublin",
+      "position": "Assistant and Fullstack Developer",
+      "website": "http://kul.pl/",
+      "startDate": "2011-10-01",
+      "endDate": "2014-10-01",
+      "summary": "Developing analysis applications breeding forests. The project for the ecology department.",
+      "highlights": []
+    },
+    {
+      "organization": "Lubelskie Dni Informatyki",
+      "position": "Chief Organizer",
+      "website": "http://ldi.org.pl/",
+      "startDate": "2011-10-01",
+      "summary": "Organizing the largest IT conference in the eastern part of the Poland",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "John Paul II Catholic University of Lublin",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2009-10-01",
+      "endDate": "2012-07-01",
+      "gpa": "4.0",
+      "courses": [
+        "CCNA"
+      ]
+    },
+    {
+      "institution": "John Paul II Catholic University of Lublin",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2012-10-01",
+      "endDate": "2014-10-01",
+      "gpa": "4.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React JS", 
+        "Redux", 
+        "Sagas",
+        "Angular JS 1.5x",
+        "Webpack",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Junor",
+      "keywords": [
+        "Java Spring ",
+        "Ruby on Rails",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Regular",
+      "keywords": [
+        "Webpack",
+        "Gulp",
+        "Grunt",
+        "Docker",
+        "EsLint"
+      ]
+    },
+    {
+      "name": "Hybrid Apps",
+      "level": "Regular",
+      "keywords": [
+        "Phone Gap",
+        "Ionic",
+        "Cordova",
+        "Electron",
+        "Node Web-kit"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Regular",
+      "keywords": [
+        "Jasmine",
+        "Protractor",
+        "Mocha",
+        "Karma",
+        "Testify"
+      ]
+    },
+    {
+      "name": "CI",
+      "level": "Regular",
+      "keywords": [
+        "Travis",
+        "Semaphore",
+        "Team City"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Climbing"
+      ]
+    },
+    {
+      "name": "Hacking",
+      "keywords": [
+        "DIY",
+        "Arduino",
+        "Raspberry PI",
+        "IoT",
+        "Security"
+      ]
+    }
+  ]
+}
