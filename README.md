@@ -1,3 +1,3 @@
-#Resume
+# Resume
 
-My resume - [https://registry.jsonresume.org/sptq](https://registry.jsonresume.org/sptq)
+My resume - [https://jaresume.com/sptq](https://jaresume.com/sptq)
